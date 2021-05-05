@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="10.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cadastro.Core\Cadastro.Core.csproj" />
+    <ProjectReference Include="..\Cadastro.Infrastructure\Cadastro.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

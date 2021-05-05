@@ -1,0 +1,17 @@
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\bin\Debug\net5.0\Cadastro.Core.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\bin\Debug\net5.0\Cadastro.Infrastructure.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\obj\Debug\net5.0\Cadastro.Application.csprojAssemblyReference.cache
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\obj\Debug\net5.0\Cadastro.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\obj\Debug\net5.0\Cadastro.Application.AssemblyInfoInputs.cache
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\obj\Debug\net5.0\Cadastro.Application.AssemblyInfo.cs
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\bin\Debug\net5.0\Cadastro.Application.deps.json
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\bin\Debug\net5.0\Cadastro.Application.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\bin\Debug\net5.0\ref\Cadastro.Application.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\bin\Debug\net5.0\Cadastro.Application.pdb
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\bin\Debug\net5.0\Cadastro.Core.pdb
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\bin\Debug\net5.0\Cadastro.Infrastructure.pdb
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\obj\Debug\net5.0\Cadastro.Application.csproj.CoreCompileInputs.cache
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\obj\Debug\net5.0\Cadastro.Application.csproj.CopyComplete
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\obj\Debug\net5.0\Cadastro.Application.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\obj\Debug\net5.0\ref\Cadastro.Application.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Application\obj\Debug\net5.0\Cadastro.Application.pdb

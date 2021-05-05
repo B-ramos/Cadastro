@@ -1,0 +1,12 @@
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Core\bin\Debug\net5.0\Cadastro.Core.deps.json
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Core\bin\Debug\net5.0\Cadastro.Core.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Core\bin\Debug\net5.0\ref\Cadastro.Core.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Core\bin\Debug\net5.0\Cadastro.Core.pdb
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Core\obj\Debug\net5.0\Cadastro.Core.csprojAssemblyReference.cache
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Core\obj\Debug\net5.0\Cadastro.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Core\obj\Debug\net5.0\Cadastro.Core.AssemblyInfoInputs.cache
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Core\obj\Debug\net5.0\Cadastro.Core.AssemblyInfo.cs
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Core\obj\Debug\net5.0\Cadastro.Core.csproj.CoreCompileInputs.cache
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Core\obj\Debug\net5.0\Cadastro.Core.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Core\obj\Debug\net5.0\ref\Cadastro.Core.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.Core\obj\Debug\net5.0\Cadastro.Core.pdb
