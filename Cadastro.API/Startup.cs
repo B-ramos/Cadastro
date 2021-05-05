@@ -13,6 +13,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using System;
 
 namespace Cadastro.API
 {
@@ -31,10 +32,12 @@ namespace Cadastro.API
             var connectionString = Configuration.GetConnectionString("CadastroCS");
             services.AddDbContext<CadastroDbContext>(options => options.UseSqlServer(connectionString));            
 
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IUserService, UserService>();
 
-            //options.SuppressModelStateInvalidFilter = true;
+            
             services.AddControllers(options => options.Filters.Add(typeof(ValidationFilter)))
                 .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<UserValidator>())
                 .ConfigureApiBehaviorOptions(options =>
@@ -45,9 +48,7 @@ namespace Cadastro.API
                     options.SuppressMapClientErrors = true;                    
                 });
 
-
-            //services.AddMediatR(typeof(CreateProjectCommand));
-
+            
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "DevFreela.API", Version = "v1" });

@@ -12,7 +12,7 @@ namespace Cadastro.API.Controllers
     {
         private readonly IUserService _userService;
 
-        public UserContoller(IUserService userService )
+        public UserContoller(IUserService userService)
         {
             _userService = userService;
         }

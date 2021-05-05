@@ -68,3 +68,5 @@ C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastr
 C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.API\obj\Debug\net5.0\ref\Cadastro.API.dll
 C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.API\obj\Debug\net5.0\Cadastro.API.pdb
 C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.API\obj\Debug\net5.0\Cadastro.API.genruntimeconfig.cache
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\Formação Asp.Net core\Cadastro\Cadastro.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

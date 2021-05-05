@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "RUUFmEC0ISn+aGwElosBjpDgTd2T2N8BG5rCwx6oG4sGNIIdgAbbgeIOV34EomavBCklTnJKdbBJRKdDA6fwuA==",
+  "dgSpecHash": "TQQZ9mTwwIkCMIw1EaR7AMUiAFU1n5y+4eMy3Q8w0hcCT8spiMmTmV2QDCoHk1JlGSS7+IzYSTT1TfNdmkJuIw==",
   "success": true,
   "projectFilePath": "C:\\Users\\bramo\\Área de Trabalho\\Desenvolvimento\\Formação Asp.Net core\\Cadastro\\Cadastro.API\\Cadastro.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bramo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\bramo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\bramo\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
     "C:\\Users\\bramo\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.1.0\\fluentvalidation.aspnetcore.10.1.0.nupkg.sha512",
     "C:\\Users\\bramo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.1.0\\fluentvalidation.dependencyinjectionextensions.10.1.0.nupkg.sha512",
@@ -74,7 +76,7 @@
     "C:\\Users\\bramo\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Users\\bramo\\.nuget\\packages\\system.private.uri\\4.3.2\\system.private.uri.4.3.2.nupkg.sha512",
     "C:\\Users\\bramo\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\bramo\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\bramo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\bramo\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Users\\bramo\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\bramo\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
